@@ -6,7 +6,7 @@ Day 0:
 2. Automate - move files and create new dirs as per extension
 
 Day 1:  
-3. Get system Info - wmi, platform, subprocess, psutl
+  3. Get system Info - wmi, platform, subprocess, psutl
 
 Day 2:  
 4. Pdf Manager - PyPDF2, datetime
