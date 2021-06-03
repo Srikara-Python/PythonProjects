@@ -2,5 +2,5 @@ test.py
 /Day0/image_convertor.py
 /Day2/pdfs/*
 /Day2/output/*
-/Day3/*/csv/*
-/Day3/*/json/*
+/Day3/*/csv/records.csv
+/Day3/*/json/records.json

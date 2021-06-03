@@ -1,0 +1,17 @@
+[
+    {
+        "Date": "6/1/2020",
+        "type": "gym",
+        "expense": "10"
+    },
+    {
+        "Date": "5/30/2020",
+        "type": "car",
+        "expense": "30"
+    },
+    {
+        "Date": "5/30/2020",
+        "type": "gym",
+        "expense": "20"
+    }
+]
